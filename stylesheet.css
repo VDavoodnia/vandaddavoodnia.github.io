@@ -97,14 +97,31 @@ h2 {
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 900;
+  font-family: 'Lato-Bold', Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
 }
 
-.paperauthor.a {
+paperauthor > a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 1px;
+  font-size: 12px !important;
+}
+paperauthor > strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px !important;
+}
+paperauthor  {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px !important;
+}
+
+paperpublication > em {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 11px !important;
+}
+paperpublication {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 11px !important;
 }
 
 .name {
