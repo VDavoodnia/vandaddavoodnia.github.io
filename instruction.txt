@@ -1,0 +1,21 @@
+
+# Update
+bundle update
+
+# Developing theme
+bundle install
+
+# Running theme
+bundle exec rake preview
+and then go to
+http://localhost:4000/test/
+
+
+gem update --system
+ruby setup.rb <- rubygems.org
+gem install jekyll bundler
+
+
+bundle
+bundle update
+bundle exec jekyll serve --livereload
