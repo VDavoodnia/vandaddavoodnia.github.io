@@ -202,6 +202,7 @@ body:hover .visually-hidden button {
 }
 
 /* social icons*/
+$base-color: #c6538c;
 
 .social-icons {
   .fas,
@@ -212,6 +213,9 @@ body:hover .visually-hidden button {
   }
 
   @each $color, $icons in (
+    $orcid-color: ".fa-orcid",
+    $gmail-color: ".fa-envelope-square",
+    $google-scholar-color: ".fa-google-scholar",
     $behance-color: ".fa-behance, .fa-behance-square",
     $bitbucket-color: ".fa-bitbucket",
     $dribbble-color: ".fa-dribbble, .fa-dribbble-square",

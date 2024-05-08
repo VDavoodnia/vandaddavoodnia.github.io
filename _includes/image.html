@@ -1,0 +1,21 @@
+<div className="figure-div">
+  <figure>
+    {% if include.url %}
+    <a href="{{ include.url }}">
+      {% endif %}
+      <img
+              {% if include.srcabs %}
+              src="{{ include.srcabs }}"
+              {% else %}
+              src="{{ include.src }}"
+              {% endif %}
+              alt="{{ include.alt }}"
+              height="100%" width="100%">
+      {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+    <figcaption style="font-size:50%;">{{ include.caption }}</figcaption>
+    {% endif %}
+  </figure>
+</div>

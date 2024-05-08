@@ -1,0 +1,97 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Vandad Davoodnia
+    - name: Languages
+      value: English, Persian (Farsi)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D.
+      institution: Queen's University
+      year: Expected June 2024
+      location: Kingston, Canada
+#      maindescription:
+#      description:
+#        - Dissertation on Estimating Human Pose in Smart Environments
+#        - "GPA: A+"
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: B.Sc.
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2017
+      location: Tehran, Iran
+#      description:
+#        - Thesis on development of multi-electrodes for recording biological micro-signals
+#        - "GPA: B+"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Ph.D. Research Assistant
+      department: ECE Department, Queen’s University
+      year: 2018-2024
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Research and Development Programmer Intern
+      department: Ubisoft Toronto Inc.
+      year: 2022-2024
+#      description:
+#        - Description 1.
+#        - Description 2.
+
+    - title: Neuroscience Research Scientist
+      department: Institute for Research in Fundamental Sciences (IPM), Brain Eng. Center
+      year: 2015-2018
+
+#    - title: Professor of Theoretical Physics
+#      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#      year: 1911 - 1917
+#      description:
+#
+#    - title: Associate Professor of Theoretical Physics
+#      institution: University of Zurich, Zurich, Switzerland
+#      year: 1909 - 1911
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Mitacs Accelerate Fellowship Award</span>
+    - title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Best Reviewer at AAAI R2HCAI Workshop</span>
+      year: 2023
+    - year: 2012
+      title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Obtained the 4th rank in the nationwide university entrance exam (Concours)</span>
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

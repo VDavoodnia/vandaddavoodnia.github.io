@@ -1,0 +1,205 @@
+/* latin-ext */
+
+
+papertitle {
+  font-family: 'Lato-Bold', Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+paperauthor > a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px !important;
+}
+
+paperauthor > strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px !important;
+}
+
+paperauthor  {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px !important;
+}
+
+paperpublication > em {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 11px !important;
+}
+
+paperpublication {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 11px !important;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+
+.paper-info {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+
+.paper-info.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+/* newest browser */
+h1.flex {
+  display: flex;
+  justify-content: space-between;
+}
+/* check it on canisue.com */
+h1.tAl {
+  text-align: justify;
+  text-align-last: justify;
+}
+/* oldest browsers such as IE8 */
+h1.tA {
+  text-align: justify;
+}
+h1.tA:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+
+/* Style the container with a rounded border, grey background and some padding and margin */
+.cv_container {
+  border: 2px solid #545454;
+  background-color: #171a1f;
+  border-radius: 5px;
+  padding: 4px;
+  margin: 4px 4px;
+  border-top: 2px;
+  margin-top: 2px;
+}
+
+/* Clear floats after containers */
+.cv_container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/*!* Float images inside the container to the left. Add a right margin, and style the image as a circle *!*/
+/*.container img {*/
+/*  float: left;*/
+/*  margin-right: 20px;*/
+/*  border-radius: 50%;*/
+/*}*/
+
+/* Increase the font-size of a td element */
+.cv_container table {
+  font-size: 16px;
+  width:100%;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:10px;
+  margin-bottom:auto;
+  border-spacing: 2px;
+  border-color: #171a1f;
+  horiz-align: left;
+  vertical-align: middle;
+}
+
+
+/* Increase the font-size of a td element */
+.cv_container td {
+  font-size: 16px;
+  border-spacing: 2px;
+  border-color: #171a1f;
+}
+
+/* Increase h2 font-size of a td element */
+.cv_container h2 {
+  font-size: 28px;
+  margin: auto;
+  padding: 1px;
+  margin-top: 16px;
+  border-bottom-color: #51555DFF !important;
+}
+
+/* Increase the font-size of a span element */
+.cv_container span {
+  font-size: 16px;
+  margin-right: 2em;
+  font-weight: bold;
+}
+
+/*!* Add media queries for responsiveness. This will center both the text and the image inside the container *!*/
+/*@media (max-width: 500px) {*/
+/*  .container {*/
+/*    text-align: center;*/
+/*  }*/
+
+/*  .container img {*/
+/*    margin: auto;*/
+/*    float: none;*/
+/*    display: block;*/
+/*  }*/
+/*}*/
+
+
+
+h2.flex {
+  display: flex;
+  justify-content: space-between;
+}
+h3.flex {
+  display: flex;
+  justify-content: space-between;
+}
+h4.flex {
+  display: flex;
+  justify-content: space-between;
+}
+h5.flex {
+  display: flex;
+  justify-content: space-between;
+}
+h6.flex {
+  display: flex;
+  justify-content: space-between;
+}
+p.flex {
+  display: flex;
+  justify-content: space-between;
+}
+div.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.list-group-item {
+  background-color: inherit;
+  /*border-color: #171a1f;*/
+  border-bottom-color: #51555DFF !important;
+  list-style-type: none;
+}
+
+
+
+.date-cell {
+  font-family: Arial, sans-serif;
+  background: #8cd0d3;
+  border-radius: 10px;
+  text-align: center;
+  color: #000000;
+  padding: 2px 4px;
+  font-weight: 600;
+  padding: 2px 4px;
+  width: 70px;
+  display: inline-block;
+}

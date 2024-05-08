@@ -19,3 +19,8 @@ gem install jekyll bundler
 bundle
 bundle update
 bundle exec jekyll serve --livereload
+
+
+
+dark mode:
+    https://github.com/mmistakes/minimal-mistakes/discussions/2033

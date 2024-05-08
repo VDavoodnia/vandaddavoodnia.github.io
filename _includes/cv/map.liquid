@@ -1,0 +1,12 @@
+<table style="margin-left: 25px"><tbody>
+  {% for content in entry.contents %}
+    <tr>
+      <td width="30%"><span style="display: inline-block">{{ content.name }}</span></td>
+      {% if content.value %}
+      <td width="70%"><div style="display: inline-block">{{ content.value }}</div></td>
+      {% endif %}
+    </tr>
+  {% endfor %}
+</table>
+
+

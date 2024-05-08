@@ -22,6 +22,9 @@
             </li>
           {%- endfor -%}
         </ul>
+        {% if site.minimal_mistakes_skin2 %}
+            <li><i class="fas fa-fw fa-adjust dark_mode_btn" aria-hidden="true" onclick="dark_mode_btn_click()"></i></li>
+        {% endif %}
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
