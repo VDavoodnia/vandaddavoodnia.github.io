@@ -203,3 +203,8 @@ div.flex {
   width: 70px;
   display: inline-block;
 }
+
+
+p.about-me-job {
+  color:#fd7a01;
+}

@@ -198,3 +198,8 @@ li.list-group-item {
   width: 70px;
   display: inline-block;
 }
+
+
+p.about-me-job {
+  color: #f10000;
+}
