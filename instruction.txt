@@ -24,3 +24,21 @@ bundle exec jekyll serve --livereload
 
 dark mode:
     https://github.com/mmistakes/minimal-mistakes/discussions/2033
+
+Nice project pages:
+- https://pratulsrinivasan.github.io/lighthouse/
+- https://lvsn.github.io/shadowcompositing/
+
+useful refs:
+- https://eugeneyan.com/
+- https://lilianweng.github.io/
+- https://saeed1262.github.io/
+- https://macarbonneau.github.io/
+- https://mahdiyarmm.github.io/
+- http://mgharbi.com/
+- https://pritamsarkar.com/
+- https://www.guangyizhang.com/home
+- https://www.xiaodanzhu.com/
+- https://jonbarron.info/
+- https://arsm.github.io/
+- https://github.com/VladimirSiv/VladimirSiv.github.io
