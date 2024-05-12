@@ -3,6 +3,7 @@ layout: single
 title: Research
 permalink: /research/
 classes: wide
+description: "Find out more about Vandad Davoodnia (Ph.D.) and his research on his personal website. He is interested in computer vision, deep learning, generative AI, and virtual worlds. His most recent research is on modeling virtual humans using cameras."
 ---
 
 I'm interested in computer vision, deep learning, generative AI, and virtual worlds.

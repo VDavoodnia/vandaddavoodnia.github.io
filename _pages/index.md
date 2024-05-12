@@ -10,6 +10,7 @@ redirect_from:
   - /about/
   - /about.md
 classes: wide
+description: "Find out more about Vandad Davoodnia (Ph.D.) on his personal website. An enthusiastic machine learning scientist fascinated by natural language processing, computer vision, and their applications for virtual worlds."
 ---
 
 
@@ -45,8 +46,7 @@ and interests, such as research, data science, or AI engineering positions.
         .news tr { height: 1px; font-size: small ;  max-width: 100%; margin: 0 auto; }
         .news td { height: 1px; font-size: small ;  max-width: 100%; margin: 0 auto; padding:2px; vertical-align:middle; horiz-align:left;};
     </style>
-    <!-- h1 class="paper-info">News</h1 -->
-    <h1>News</h1>
+    <h2>News</h2>
     <table id="table2" class="news" cellspacing="0" style="width:100%;border-spacing:0 1px;border-collapse:separate;margin-right:auto;margin-left:auto;overflow:hidden;">
     <tbody>
         <tr>

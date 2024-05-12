@@ -1,3 +1,6 @@
+use wsl on windows (if not running on linux)
+install ruby and jekyll (from the website instructions)
+continue here if you wish
 
 # Update
 bundle update
@@ -5,22 +8,16 @@ bundle update
 # Developing theme
 bundle install
 
-# Running theme
-bundle exec rake preview
-and then go to
-http://localhost:4000/test/
-
-
+# Serve locally
+## once
 gem update --system
 ruby setup.rb <- rubygems.org
 gem install jekyll bundler
 
-
+## after changes
 bundle
 bundle update
 bundle exec jekyll serve --livereload
-
-
 
 dark mode:
     https://github.com/mmistakes/minimal-mistakes/discussions/2033
