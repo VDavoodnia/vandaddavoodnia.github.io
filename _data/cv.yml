@@ -11,7 +11,7 @@
   contents:
     - title: Ph.D.
       institution: Queen's University
-      year: Expected June 2024
+      year: 2024
       location: Kingston, Canada
 #      maindescription:
 #      description:
@@ -77,7 +77,7 @@
     - title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Best Reviewer at AAAI R2HCAI Workshop</span>
       year: 2023
     - year: 2012
-      title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Obtained the 4th rank in the nationwide university entrance exam (Concours)</span>
+      title: <span style='font-size:normal;'> <i class="fa-solid fa-circle-dot"></i> Ranked 4th in the nationwide university entrance exam (Concours)</span>
 
 #- title: Academic Interests
 #  type: nested_list
