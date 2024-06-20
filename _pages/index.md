@@ -15,9 +15,9 @@ description: "Find out more about Vandad Davoodnia (Ph.D.) on his personal websi
 
 
 
-I am currently pursuing a Ph.D. degree in Artificial Intelligence 
+I am a machine learning Ph.D. graduate 
 from the [Human-Centered Artificial Intelligence and Interactive Machines Laboratory (Aiim Lab)](https://www.aiimlab.com/) at 
-[Queen's University](https://www.queensu.ca/), expecting to graduate in June 2024. My current work lies 
+[Queen's University](https://www.queensu.ca/). My most recent work lies 
 in the intersection of NLP and 3D human pose estimation from cameras and pressure sensors. During my studies, 
 I have worked on developing deep-learning methods for pose estimation in smart environments using ubiquitous sensors. 
 I recently finished my internship at [LaForge](https://www.ubisoft.com/en-us/studio/laforge) in [Ubisoft Toronto Inc.](https://toronto.ubisoft.com/), 
@@ -33,7 +33,7 @@ to create mobile and desktop applications using Python, Matlab, Java, and C++. F
 I published several papers and gained valuable experience in signal processing, data science, and statistics.
 
 <p class="about-me-job">
-I am actively seeking opportunities in the industrial, research, and development 
+I am actively seeking opportunities in the industrial research and development 
 sectors, particularly in roles that allow me to apply my expertise on 
 Artificial Intelligence. I am open to discussing potential roles that align with my skills 
 and interests, such as research, data science, or AI engineering positions.
@@ -50,6 +50,10 @@ and interests, such as research, data science, or AI engineering positions.
     <table id="table2" class="news" cellspacing="0" style="width:100%;border-spacing:0 1px;border-collapse:separate;margin-right:auto;margin-left:auto;overflow:hidden;">
     <tbody>
         <tr>
+            <td width="12%"><span class="date-cell">June '24</span></td>
+            <td width="90%">Happy to announce that I have successfully obtained my Ph.D. degree. <a href="https://hdl.handle.net/1974/33138">Thesis</a> on "Estimating Human Pose from Pressure and Vision Data".</td>
+        </tr>
+        <tr>
             <td width="12%"><span class="date-cell">Apr '24</span></td>
             <td width="90%">Check out our new <a href="https://doi.org/10.48550/arXiv.2404.14634">paper</a> on 3D human keypoint estimation estimation.</td>
         </tr>
@@ -61,7 +65,7 @@ and interests, such as research, data science, or AI engineering positions.
             <td width="12%"><span class="date-cell">May '23</span></td>
             <td width="90%">Secured $30,000 research grant from <a href="https://www.mitacs.ca/">Mitacs</a> in support of 8 months of additional research at <a href="https://toronto.ubisoft.com/">Ubisoft Toronto</a>.</td>
         </tr>
-        <tr>
+        <tr class="paper-info">
             <td width="12%"><span class="date-cell">Jan '23</span></td>
             <td width="90%">Was selected as the <strong>top reviewer</strong> for <a href="https://r2hcai.github.io/AAAI-23/index.html">AAAI R2HCAI</a> workshop.</td>
         </tr>
